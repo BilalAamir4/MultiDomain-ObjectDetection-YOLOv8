@@ -2,9 +2,6 @@
 
 > YOLOv8s fine-tuned on COCO 2017 for real-time object detection across Traffic, Home, Wildlife, and Classroom environments — with a live Gradio web interface.
 
-**Course:** CSC411 – Artificial Intelligence | Bahria University, Islamabad  
-**Semester:** Spring 2025 – BSIT 6B  
-**Instructor:** Ms. Sidra Ayesha
 
 ---
 
